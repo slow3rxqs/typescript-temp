@@ -1,6 +1,7 @@
 # Discord TypeScript Şablonu
 
 **TypeScript** ve **discord.js v14** kullanarak temiz ve modern bir Discord bot şablonu.
+Daha fazla proje için [discord sunucumuz'a](https://discord.gg/DRCE9wCn4K) gelebilirsiniz.
 
 ## 🚀 Özellikler
 
